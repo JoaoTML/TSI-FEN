@@ -5,7 +5,7 @@ This repository contains the work performed as the final project for the curricu
 It was developed by:
 
 - João Tiago Morais Lourenço(up202108864)
-- Leonardo Magalhães Regadas(up2021)
+- Leonardo Magalhães Regadas(up202108144)
 - Rodrigo Gonçalves Figueiredo(up202108870)
 
 ## Setup
